@@ -1,0 +1,65 @@
+.box{
+    min-height:50px;
+    background-color: blueviolet;
+}
+.box1{
+    min-height: 50px;
+    margin-top:10px;
+    background-color: cornflowerblue;
+}
+.box2{
+    min-height: 50px;
+    margin-top:10px;
+    background-color:crimson;
+}
+.box3{
+    min-height: 50px;
+    margin-top:10px;
+    background-color:darkgoldenrod;
+}
+h2{
+    text-align:center;
+    width:900;
+}
+hr{
+    width:10%;
+    border:3px solid darkgray;
+    background-color: darkgray;
+    margin:0 auto;
+}
+/* gird */
+.box{
+    margin-top:10px;
+    background-color: darkorange;
+    min-height:50px;
+}
+/* section2 */
+.section2{
+    margin-top:20px;
+}
+.div{
+    background-color: aquamarine;
+    min-height:40px;
+}
+.div1{
+    background-color:chartreuse;
+    min-height:40px;
+}
+.div3{
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    background-color: rgba(39,41,43,0.03);
+    border: 1px solid rgba(39,41,43,0.1);
+}
+.ot{
+    min-height:150px;
+    background-color: gray;
+}
+.div4{
+    background-color: fuchsia;
+    min-height:40px;
+}
+.at{
+    min-height:150px;
+    background-color: gray;
+}
